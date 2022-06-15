@@ -447,6 +447,14 @@
                         },
                         "wmc": {
                             "wmc": 3.0
+                        },
+                        "npm": {
+                            "classes": 3.0,
+                            "interfaces": 0.0,
+                            "classes_average": 1.0,
+                            "interfaces_average": 0.0,
+                            "total": 3.0,
+                            "average": 1.0
                         }
                     }
                 },
@@ -2083,6 +2091,14 @@
                 },
                 "wmc": {
                     "wmc": 27.0
+                },
+                "npm": {
+                    "classes": 9.0,
+                    "interfaces": 0.0,
+                    "classes_average": 0.5294117647058824,
+                    "interfaces_average": 0.0,
+                    "total": 9.0,
+                    "average": 0.5294117647058824
                 }
             }
         }
@@ -2190,6 +2206,14 @@
         },
         "wmc": {
             "wmc_total": 27.0
+        },
+        "npm": {
+            "classes": 9.0,
+            "interfaces": 0.0,
+            "classes_average": 0.5294117647058824,
+            "interfaces_average": 0.0,
+            "total": 9.0,
+            "average": 0.5294117647058824
         }
     }
 }

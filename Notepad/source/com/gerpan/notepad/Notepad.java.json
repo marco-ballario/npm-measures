@@ -4258,6 +4258,14 @@
                 },
                 "wmc": {
                     "wmc": 64.0
+                },
+                "npm": {
+                    "classes": 20.0,
+                    "interfaces": 0.0,
+                    "classes_average": 0.5263157894736842,
+                    "interfaces_average": 0.0,
+                    "total": 20.0,
+                    "average": 0.5263157894736842
                 }
             }
         }
@@ -4365,6 +4373,14 @@
         },
         "wmc": {
             "wmc_total": 64.0
+        },
+        "npm": {
+            "classes": 20.0,
+            "interfaces": 0.0,
+            "classes_average": 0.5263157894736842,
+            "interfaces_average": 0.0,
+            "total": 20.0,
+            "average": 0.5263157894736842
         }
     }
 }

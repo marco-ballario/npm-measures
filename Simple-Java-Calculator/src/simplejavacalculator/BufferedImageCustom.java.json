@@ -223,6 +223,14 @@
                 },
                 "wmc": {
                     "wmc": 1.0
+                },
+                "npm": {
+                    "classes": 1.0,
+                    "interfaces": 0.0,
+                    "classes_average": 1.0,
+                    "interfaces_average": 0.0,
+                    "total": 1.0,
+                    "average": 1.0
                 }
             }
         }
@@ -330,6 +338,14 @@
         },
         "wmc": {
             "wmc_total": 1.0
+        },
+        "npm": {
+            "classes": 1.0,
+            "interfaces": 0.0,
+            "classes_average": 1.0,
+            "interfaces_average": 0.0,
+            "total": 1.0,
+            "average": 1.0
         }
     }
 }
