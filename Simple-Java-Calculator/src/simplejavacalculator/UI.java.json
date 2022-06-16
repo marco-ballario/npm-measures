@@ -116,6 +116,17 @@
                             "branches_max": 47.0,
                             "conditions_min": 1.0,
                             "conditions_max": 1.0
+                        },
+                        "npm": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_methods": 0.0,
+                            "interface_methods": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_methods": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -225,6 +236,17 @@
                             "branches_max": 94.0,
                             "conditions_min": 2.0,
                             "conditions_max": 2.0
+                        },
+                        "npm": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_methods": 0.0,
+                            "interface_methods": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_methods": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -334,6 +356,17 @@
                             "branches_max": 61.0,
                             "conditions_min": 23.0,
                             "conditions_max": 23.0
+                        },
+                        "npm": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_methods": 0.0,
+                            "interface_methods": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_methods": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -443,6 +476,17 @@
                             "branches_max": 6.0,
                             "conditions_min": 2.0,
                             "conditions_max": 2.0
+                        },
+                        "npm": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_methods": 0.0,
+                            "interface_methods": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_methods": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -552,6 +596,17 @@
                             "branches_max": 2.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
+                        },
+                        "npm": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_methods": 0.0,
+                            "interface_methods": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_methods": 0.0,
+                            "average": null
                         }
                     }
                 },
@@ -661,6 +716,17 @@
                             "branches_max": 4.0,
                             "conditions_min": 2.0,
                             "conditions_max": 2.0
+                        },
+                        "npm": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_methods": 0.0,
+                            "interface_methods": 0.0,
+                            "classes_average": null,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_methods": 0.0,
+                            "average": null
                         }
                     }
                 }
@@ -772,9 +838,12 @@
                 "npm": {
                     "classes": 5.0,
                     "interfaces": 0.0,
+                    "class_methods": 6.0,
+                    "interface_methods": 0.0,
                     "classes_average": 0.8333333333333334,
-                    "interfaces_average": 0.0,
+                    "interfaces_average": null,
                     "total": 5.0,
+                    "total_methods": 6.0,
                     "average": 0.8333333333333334
                 }
             }
@@ -887,9 +956,12 @@
         "npm": {
             "classes": 5.0,
             "interfaces": 0.0,
+            "class_methods": 6.0,
+            "interface_methods": 0.0,
             "classes_average": 0.8333333333333334,
-            "interfaces_average": 0.0,
+            "interfaces_average": null,
             "total": 5.0,
+            "total_methods": 6.0,
             "average": 0.8333333333333334
         }
     }
