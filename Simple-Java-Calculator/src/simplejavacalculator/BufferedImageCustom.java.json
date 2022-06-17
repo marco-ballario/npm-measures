@@ -116,17 +116,6 @@
                             "branches_max": 3.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npm": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_methods": 0.0,
-                            "interface_methods": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_methods": 0.0,
-                            "average": null
                         }
                     }
                 }
