@@ -122,17 +122,6 @@
                                     "branches_max": 0.0,
                                     "conditions_min": 0.0,
                                     "conditions_max": 0.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         },
@@ -242,17 +231,6 @@
                                     "branches_max": 0.0,
                                     "conditions_min": 0.0,
                                     "conditions_max": 0.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         },
@@ -362,17 +340,6 @@
                                     "branches_max": 1.0,
                                     "conditions_min": 0.0,
                                     "conditions_max": 0.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -600,17 +567,6 @@
                             "branches_max": 3.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npm": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_methods": 0.0,
-                            "interface_methods": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_methods": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -720,17 +676,6 @@
                             "branches_max": 28.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npm": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_methods": 0.0,
-                            "interface_methods": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_methods": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -840,17 +785,6 @@
                             "branches_max": 8.0,
                             "conditions_min": 2.0,
                             "conditions_max": 2.0
-                        },
-                        "npm": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_methods": 0.0,
-                            "interface_methods": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_methods": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -960,17 +894,6 @@
                             "branches_max": 4.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npm": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_methods": 0.0,
-                            "interface_methods": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_methods": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -1086,17 +1009,6 @@
                                     "branches_max": 14.0,
                                     "conditions_min": 6.0,
                                     "conditions_max": 6.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -1201,17 +1113,6 @@
                             "branches_max": 14.0,
                             "conditions_min": 0.0,
                             "conditions_max": 6.0
-                        },
-                        "npm": {
-                            "classes": 1.0,
-                            "interfaces": 0.0,
-                            "class_methods": 1.0,
-                            "interface_methods": 0.0,
-                            "classes_average": 1.0,
-                            "interfaces_average": null,
-                            "total": 1.0,
-                            "total_methods": 1.0,
-                            "average": 1.0
                         }
                     }
                 },
@@ -1327,17 +1228,6 @@
                                     "branches_max": 8.0,
                                     "conditions_min": 2.0,
                                     "conditions_max": 2.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -1442,17 +1332,6 @@
                             "branches_max": 8.0,
                             "conditions_min": 0.0,
                             "conditions_max": 2.0
-                        },
-                        "npm": {
-                            "classes": 1.0,
-                            "interfaces": 0.0,
-                            "class_methods": 1.0,
-                            "interface_methods": 0.0,
-                            "classes_average": 1.0,
-                            "interfaces_average": null,
-                            "total": 1.0,
-                            "total_methods": 1.0,
-                            "average": 1.0
                         }
                     }
                 },
@@ -1568,17 +1447,6 @@
                                     "branches_max": 4.0,
                                     "conditions_min": 2.0,
                                     "conditions_max": 2.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         },
@@ -1688,17 +1556,6 @@
                                     "branches_max": 4.0,
                                     "conditions_min": 2.0,
                                     "conditions_max": 2.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         },
@@ -1808,17 +1665,6 @@
                                     "branches_max": 4.0,
                                     "conditions_min": 2.0,
                                     "conditions_max": 2.0
-                                },
-                                "npm": {
-                                    "classes": 0.0,
-                                    "interfaces": 0.0,
-                                    "class_methods": 0.0,
-                                    "interface_methods": 0.0,
-                                    "classes_average": null,
-                                    "interfaces_average": null,
-                                    "total": 0.0,
-                                    "total_methods": 0.0,
-                                    "average": null
                                 }
                             }
                         }
@@ -1923,17 +1769,6 @@
                             "branches_max": 4.0,
                             "conditions_min": 0.0,
                             "conditions_max": 2.0
-                        },
-                        "npm": {
-                            "classes": 3.0,
-                            "interfaces": 0.0,
-                            "class_methods": 3.0,
-                            "interface_methods": 0.0,
-                            "classes_average": 1.0,
-                            "interfaces_average": null,
-                            "total": 3.0,
-                            "total_methods": 3.0,
-                            "average": 1.0
                         }
                     }
                 },
@@ -2043,17 +1878,6 @@
                             "branches_max": 4.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npm": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_methods": 0.0,
-                            "interface_methods": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_methods": 0.0,
-                            "average": null
                         }
                     }
                 },
@@ -2163,17 +1987,6 @@
                             "branches_max": 4.0,
                             "conditions_min": 0.0,
                             "conditions_max": 0.0
-                        },
-                        "npm": {
-                            "classes": 0.0,
-                            "interfaces": 0.0,
-                            "class_methods": 0.0,
-                            "interface_methods": 0.0,
-                            "classes_average": null,
-                            "interfaces_average": null,
-                            "total": 0.0,
-                            "total_methods": 0.0,
-                            "average": null
                         }
                     }
                 }
