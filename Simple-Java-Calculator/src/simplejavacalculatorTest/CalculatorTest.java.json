@@ -1857,7 +1857,8 @@
                     "conditions_max": 0.0
                 },
                 "wmc": {
-                    "wmc": 16.0
+                    "wmc": 16.0,
+                    "total": 16.0
                 },
                 "npm": {
                     "classes": 0.0,
@@ -1869,6 +1870,17 @@
                     "total": 0.0,
                     "total_methods": 16.0,
                     "average": 0.0
+                },
+                "npa": {
+                    "classes": 0.0,
+                    "interfaces": 0.0,
+                    "class_attributes": 0.0,
+                    "interface_attributes": 0.0,
+                    "classes_average": null,
+                    "interfaces_average": null,
+                    "total": 0.0,
+                    "total_attributes": 0.0,
+                    "average": null
                 }
             }
         }
@@ -1975,7 +1987,8 @@
             "conditions_max": 0.0
         },
         "wmc": {
-            "wmc_total": 16.0
+            "wmc": 0.0,
+            "total": 16.0
         },
         "npm": {
             "classes": 0.0,
@@ -1987,6 +2000,17 @@
             "total": 0.0,
             "total_methods": 16.0,
             "average": 0.0
+        },
+        "npa": {
+            "classes": 0.0,
+            "interfaces": 0.0,
+            "class_attributes": 0.0,
+            "interface_attributes": 0.0,
+            "classes_average": null,
+            "interfaces_average": null,
+            "total": 0.0,
+            "total_attributes": 0.0,
+            "average": null
         }
     }
 }

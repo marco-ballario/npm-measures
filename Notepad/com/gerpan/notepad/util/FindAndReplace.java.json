@@ -446,7 +446,8 @@
                             "conditions_max": 0.0
                         },
                         "wmc": {
-                            "wmc": 3.0
+                            "wmc": 3.0,
+                            "total": 3.0
                         },
                         "npm": {
                             "classes": 3.0,
@@ -458,6 +459,17 @@
                             "total": 3.0,
                             "total_methods": 3.0,
                             "average": 1.0
+                        },
+                        "npa": {
+                            "classes": 0.0,
+                            "interfaces": 0.0,
+                            "class_attributes": 2.0,
+                            "interface_attributes": 0.0,
+                            "classes_average": 0.0,
+                            "interfaces_average": null,
+                            "total": 0.0,
+                            "total_attributes": 2.0,
+                            "average": 0.0
                         }
                     }
                 },
@@ -2093,7 +2105,8 @@
                     "conditions_max": 6.0
                 },
                 "wmc": {
-                    "wmc": 27.0
+                    "wmc": 27.0,
+                    "total": 30.0
                 },
                 "npm": {
                     "classes": 9.0,
@@ -2105,6 +2118,17 @@
                     "total": 9.0,
                     "total_methods": 17.0,
                     "average": 0.5294117647058824
+                },
+                "npa": {
+                    "classes": 0.0,
+                    "interfaces": 0.0,
+                    "class_attributes": 13.0,
+                    "interface_attributes": 0.0,
+                    "classes_average": 0.0,
+                    "interfaces_average": null,
+                    "total": 0.0,
+                    "total_attributes": 13.0,
+                    "average": 0.0
                 }
             }
         }
@@ -2211,7 +2235,8 @@
             "conditions_max": 6.0
         },
         "wmc": {
-            "wmc_total": 27.0
+            "wmc": 0.0,
+            "total": 30.0
         },
         "npm": {
             "classes": 9.0,
@@ -2223,6 +2248,17 @@
             "total": 9.0,
             "total_methods": 17.0,
             "average": 0.5294117647058824
+        },
+        "npa": {
+            "classes": 0.0,
+            "interfaces": 0.0,
+            "class_attributes": 13.0,
+            "interface_attributes": 0.0,
+            "classes_average": 0.0,
+            "interfaces_average": null,
+            "total": 0.0,
+            "total_attributes": 13.0,
+            "average": 0.0
         }
     }
 }
